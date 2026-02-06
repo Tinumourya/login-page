@@ -1,2 +1,4 @@
-# login-page
-A basic login page created using HTML, CSS, and JavaScript with form validation and responsive layout.
+Login Page Project
+
+A simple login page created using HTML, CSS, and JavaScript.
+Includes form validation and a responsive layout.
